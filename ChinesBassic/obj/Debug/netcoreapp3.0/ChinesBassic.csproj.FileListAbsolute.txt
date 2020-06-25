@@ -1,0 +1,11 @@
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\bin\Debug\netcoreapp3.0\ChinesBassic.exe
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\bin\Debug\netcoreapp3.0\ChinesBassic.deps.json
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\bin\Debug\netcoreapp3.0\ChinesBassic.runtimeconfig.json
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\bin\Debug\netcoreapp3.0\ChinesBassic.runtimeconfig.dev.json
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\bin\Debug\netcoreapp3.0\ChinesBassic.dll
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\bin\Debug\netcoreapp3.0\ChinesBassic.pdb
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\obj\Debug\netcoreapp3.0\ChinesBassic.csprojAssemblyReference.cache
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\obj\Debug\netcoreapp3.0\ChinesBassic.AssemblyInfoInputs.cache
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\obj\Debug\netcoreapp3.0\ChinesBassic.AssemblyInfo.cs
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\obj\Debug\netcoreapp3.0\ChinesBassic.dll
+C:\Users\Tomsztyl\source\repos\ChinesBassic\ChinesBassic\obj\Debug\netcoreapp3.0\ChinesBassic.pdb
